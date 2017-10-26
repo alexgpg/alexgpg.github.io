@@ -9,6 +9,8 @@ title: Блог alexgpg
 #url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: alexgpg
 github_username:  alexgpg
+linkedin_username: alexander-popov-9a647961
+linkedin_name: Alexander Popov
 
 # Build settings
 markdown: kramdown
